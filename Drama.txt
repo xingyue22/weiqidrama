@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPt8j0Hx/AAAABczm-YNe8k-Pvb0fhrq-CLx-Vl-VFTls-Zci3-S6-F6-Y5z3n-VQ6-G3-OM07-Xv-IDpjc7-AVm-Q-Uw-ORNY-dqx-KNZi0f-Tdhifvq9-By-Mx-V-zm-B.jpg" group-title="社内相亲 ", 社内相亲【第一集】
+https://jk.vboku.com/20220228/gCeW8hJE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPt8j0Hx/AAAABczm-YNe8k-Pvb0fhrq-CLx-Vl-VFTls-Zci3-S6-F6-Y5z3n-VQ6-G3-OM07-Xv-IDpjc7-AVm-Q-Uw-ORNY-dqx-KNZi0f-Tdhifvq9-By-Mx-V-zm-B.jpg" group-title="社内相亲 ", 社内相亲【第二集】
+https://jk.vboku.com/20220301/6ulfoZc0/hls/index.m3u8
